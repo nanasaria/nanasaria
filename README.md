@@ -25,7 +25,6 @@
 <div> 
   <a href = "mailto:nayaranasariasoares@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nayara-nasaria-soares-18955a211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://web.dio.me/users/nayaranasariasoares?tab=skills" target="_blank"><img src="https://img.shields.io/badge/-DIO-BD1183?style=for-the-badge" target="_blank"></a> 
  
   ![Snake animation](https://github.com/nanasaria/NayaraNasaria/blob/output/github-contribution-grid-snake.svg)
  
