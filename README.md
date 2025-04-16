@@ -1,9 +1,6 @@
 
-# **Bem vindo(a) ao meu Mundinho!**
+# **Welcome to my world!**
 </br>
-<b>Pronomes: ela/dela</b>
-
-##
 
 <div align="center">
   <a href="https://github.com/nanasaria">
