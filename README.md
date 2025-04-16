@@ -1,5 +1,5 @@
 
-### **Bem vindo ao meu Mundinho!**
+### **Bem vindo (a) ao meu Mundinho!**
 
 - Pronomes: ela/dela
 
