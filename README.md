@@ -1,5 +1,5 @@
 
-# **Welcome to my world 🥀**
+# **Welcome to my world 🌹**
 </br>
 
 <div align="center">
@@ -14,7 +14,7 @@
   <img height="350em" align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGhhYm53bmU1dnNzbnh0M2NwYmoyNDgzNnY1ang4MGJyN3o2bTlzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ifXKxwJV161o3br4Si/giphy.gif"/>
 </p>
 <div align="center" style="margin-bottom:"10px";">
-  <h3>Skills 🥀</h3>
+  <h3>Skills 🌹</h3>
   <img alt="JavaScript" height="50" style="margin-right: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img alt="TypeScript" height="50" style="margin-right: 5px;" src="https://bognarjunior.files.wordpress.com/2018/09/typescript.png" />
   <img alt="React" height="50" style="margin-right: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
