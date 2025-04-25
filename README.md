@@ -42,10 +42,8 @@
 <div style="display: flex"> 
   <a href = "mailto:nayaranasariasoares@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nayaranasaria" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-![Snake animation](https://github.com/nanasaria/nanasaria/blob/output/github-contribution-grid-snake.svg)
 </div>
-
+</br>
 <p align="center">
   <img height="500em" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2NsMXR0emRxajI2bTNlcXA3czd4NzdldXR5NnN2eXJvYTE4ZmswdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JThrOPi3Iy6pxYMPMP/giphy.gif"/>
 </p>
