@@ -5,8 +5,8 @@
 
 <div align="center">
   <a href="https://github.com/nanasaria">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=nanasaria&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanasaria&layout=compact&langs_count=7&theme=radical"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=nanasaria&show_icons=true&theme=synthwave&bg_color=00000000&title_color=E01B63&icon_color=FF1968&border_color=88194A&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanasaria&layout=compact&langs_count=7&theme=synthwave&bg_color=00000000&title_color=E01B63&border_color=88194A"/>
 </div>
 
 ##
