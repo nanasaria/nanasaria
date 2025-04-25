@@ -11,7 +11,7 @@
 ##
 
 <p align="center">
-  <img height="350em" align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGhhYm53bmU1dnNzbnh0M2NwYmoyNDgzNnY1ang4MGJyN3o2bTlzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ifXKxwJV161o3br4Si/giphy.gif"/>
+  <img height="300em" align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGhhYm53bmU1dnNzbnh0M2NwYmoyNDgzNnY1ang4MGJyN3o2bTlzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ifXKxwJV161o3br4Si/giphy.gif"/>
 </p>
 <div align="center" style="margin-bottom:"10px";">
   <h3>Skills 🌹</h3>
