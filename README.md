@@ -43,8 +43,8 @@
 <div> 
   <img align="right" height="300em" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2NsMXR0emRxajI2bTNlcXA3czd4NzdldXR5NnN2eXJvYTE4ZmswdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JThrOPi3Iy6pxYMPMP/giphy.gif"/>
   <div align="center">
-    <a href = "mailto:nayaranasariasoares@gmail.com"><img height="51.5em" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/nayaranasaria" target="_blank"><img height="50em" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href = "mailto:nayaranasariasoares@gmail.com"><img height="51.5em" src="https://img.shields.io/badge/-Gmail-%BF436C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=E01B63&color=E01B63" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/nayaranasaria" target="_blank"><img height="50em" src="https://img.shields.io/badge/-LinkedIn-%BF436C?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=E01B63&color=E01B63" target="_blank"></a> 
   </div>
 </div>
 
