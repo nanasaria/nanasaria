@@ -1,8 +1,6 @@
-<div align="center">
-<h1><b>Welcome to my world 🌹</b</h1>
+<div align="right">
+  <img width="700em" src="https://github.com/user-attachments/assets/5a5855fd-458a-4d34-9402-ec3d3d3cea37"/>
 </div>
-</br>
-
 <div align="center">
   <a href="https://github.com/nanasaria">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=nanasaria&show_icons=true&theme=bear&bg_color=00000000&title_color=FF1968&icon_color=FF1968&border_color=FF1968&include_all_commits=true&count_private=true"/>
