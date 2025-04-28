@@ -10,7 +10,7 @@
 ##
 
 <p align="center">
-  <img height="300em" align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGhhYm53bmU1dnNzbnh0M2NwYmoyNDgzNnY1ang4MGJyN3o2bTlzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ifXKxwJV161o3br4Si/giphy.gif"/>
+  <img height="300em" align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXpnNTU0MHAxMTdyOHZxbHJmZW1nN3NlYXk2aWlweDA2aGttcTJyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dApH4MpZMvhbMeQlDT/giphy.gif"/>
 </p>
 <div align="center" style="margin-bottom:"10px";">
   <h3>Technologies 🌹</h3>
