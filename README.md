@@ -25,14 +25,14 @@
 </br>
 <div align="center" style="margin-bottom: 10px;">
   <img alt="Nextjs" height="50" style="margin-right: 5px;" src="https://img.icons8.com/fluent-systems-filled/200/FFFFFF/nextjs.png" />
-  <img alt="HTML" height="50" style="margin-right: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img alt="CSS" height="50" style="margin-right: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  <img alt="Angular" height="50" style="margin-right: 5px;" src="https://angular.jp/assets/images/press-kit/angular_icon_gradient.gif" />
+  <img alt="Nest js" height="50" style="margin-right: 5px;" src="https://github.com/user-attachments/assets/d7734c32-d83e-4714-abdb-b6bad2b38867" />
 </div>
 </br>
 <div align="center">
-  <img alt="Nest js" height="50" style="margin-right: 5px;" src="https://github.com/user-attachments/assets/d7734c32-d83e-4714-abdb-b6bad2b38867" />
   <img alt="Java" height="50" style="margin-right: 5px;" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />
   <img alt="Python" height="50" style="margin-right: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img alt="Laravel" height="50" style="margin-right: 5px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" />
 </div>
 </br>
 
